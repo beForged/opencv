@@ -1,5 +1,7 @@
 ### OpenCV: Open Source Computer Vision Library
 
+My fork of opencv to try and figure stuff out
+
 #### Resources
 
 * Homepage: <http://opencv.org>
